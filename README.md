@@ -1,4 +1,9 @@
-# WorkBuddy 专家网络与高阶攻略
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img src="assets/banner.svg" alt="WorkBuddy 专家网络与高阶攻略 — 合工大机械学子定制版" width="100%">
+  </picture>
+</p>
 
 > 合肥工业大学机械工程学子定制版 - WorkBuddy 深度使用与专家网络搭建终极攻略
 
